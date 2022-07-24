@@ -1,0 +1,53 @@
+.cardSprot{
+    /* border: solid; */
+    /* border-color: rgb(77, 108, 231); */
+    width: 80%;
+    margin-left: 10%;
+    /* border-radius: 15PX; */
+    height: 400PX;
+    margin-top: 1%;
+}
+.imgAndArticleSport{
+    padding: 15px;
+    display: flex;
+    margin-left: 3%;
+    justify-content: space-between;
+}
+.imgCardSport{
+    width: 400PX;
+    height: 100%;
+    border-radius: 15PX;
+}
+/* .articleCardSport{ */
+    
+    /* background-color: black; */
+/* } */
+.titleCardSport{
+    /* text-align: center; */
+    color: rgb(0, 0, 0);
+    font-family: cursive;
+    margin-left: 7%;
+
+}
+.footerSport{
+    background-color: rgb(77, 108, 231);
+    height: 141PX ;
+margin-top: 20PX;
+
+}
+.listFooterSport{
+    padding: 46PX;
+    display: flex;
+    list-style: none;
+    margin-left: 40%;
+}
+.linkFooter1Sport:hover{
+    color: blue;
+}
+.linkFooterSport{
+margin-left: 3%;
+}
+.linkFooter2Sport:hover{
+   color:  #d92e7f ;
+}
+     

@@ -1,0 +1,35 @@
+.navBar{
+    background-color: rgb(77, 108, 231);
+    display: flex;
+    position: -webkit-sticky; /* Safari */
+    position: sticky;
+    top: 0;
+}
+.world{
+    color: red;
+}
+.titleAndLogo{
+    margin-left: 3%;
+    font-family: cursive;
+}
+.list{
+    list-style: none;
+    display: flex;
+    margin-top: 23PX;
+    margin-left: 650PX;
+}
+.link{
+    margin-left: 50PX;
+    color: black;
+}
+.link:hover{
+    color: red;
+    border-bottom: solid;
+    border-color: red;
+    box-shadow: 10px;
+}
+
+.linkRouter{
+    text-decoration: none;
+    color: black;
+}

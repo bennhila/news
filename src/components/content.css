@@ -1,0 +1,47 @@
+/* .content{ */
+    /* background-image: '../backbround.jpg'; */
+/* } */
+.JournalismTitle{
+    font-family: cursive;
+    color: azure;
+
+}
+.article{
+    width: 400PX;
+    margin-top: -480PX;
+    margin-left: 10%;
+    background-color: white;
+}
+
+.IMG{
+    width: 60%;
+
+}
+.Journalismarticl{
+    color: white;
+    text-decoration:underline;
+
+}
+.img2{
+    margin-top: -170PX;
+    width: 40%;
+    margin-left: 60%;
+}
+.img3{
+    width: 40%;
+    margin-left: 60%;
+    margin-top: -224PX;
+    
+}
+.img4{
+    width: 20%;
+margin-top: -400PX;
+position: absolute;
+margin-left: 50%;
+}
+.JournalismTitle:hover{
+color: red;
+}
+.Journalismarticl:hover{
+    color: red;
+}
